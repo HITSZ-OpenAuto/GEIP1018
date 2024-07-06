@@ -1,27 +1,30 @@
-# 课程代码 - 课程名
-
-> ### 说明
-> 1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！
-> 2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
-> 3. 关于课程的描述可以不止以下几个方面，酌情增删。
-> 4. 完成一个课程仓库的搭建后，请移除各子文件夹下所有的**引用**，包括本段落。
+# GEIP1018 - 毛泽东思想和中国特色社会主义理论体系概论
 
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
+![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
+![Static Badge](https://img.shields.io/badge/学时-40-moccasin)
 
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90（2024）-gold)
+![Static Badge](https://img.shields.io/badge/课堂表现-10%25-wheat)
+![Static Badge](https://img.shields.io/badge/课程论文-10%25-wheat)
+![Static Badge](https://img.shields.io/badge/小组汇报-20%25-wheat)
+![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
+老师称 2024 年是 “课程改革的元年”，未来教学方案可能还会有调整。
 
-## 授课教师
-
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+- 教材：《毛泽东思想和中国特色社会主义理论体系概论》（2023 年版）- 高等教育出版社
+- **2023 年版教材将习概的内容分离了出来，因此与 2021 年版内容区别较大。**
 
 ## 关于考试
 
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2024.7.6
+
+2024 年期末考试开始一校三区统一命题，闭卷考试。
+
 ## 学习建议
+
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256), 2024.7.6
+
+如果有串讲，相信串讲（然而 2023 年出现了反向串讲）。
+
+如果没有串讲，尽早开始整理知识点，尽早开始记忆。
