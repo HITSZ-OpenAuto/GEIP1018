@@ -1,0 +1,147 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724564,
+    "hash": "f854653bb86c8470d184f715a253a454ab4f985a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083280,
+    "hash": "428cd811b65f7f50439d76fe705eae2b3f220385"
+  },
+  "README.md": {
+    "size": 2295,
+    "time": 1751079499,
+    "hash": "123dbe51aa2b7f880b20d9f606da2082bbc51ed4"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737450558,
+    "hash": "cc21a536bdb37e94421a4db1fb80fb225e7a5d7e"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737450558,
+    "hash": "cc21a536bdb37e94421a4db1fb80fb225e7a5d7e"
+  },
+  "exams/2023毛概试题回忆.pdf": {
+    "size": 98467,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "exams/2024年春毛概期末考试回忆版答案.pdf": {
+    "size": 342609,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "exams/2024年春毛概期末考试回忆版试题.pdf": {
+    "size": 263114,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "exams/2024毛概模拟卷v1.1.pdf": {
+    "size": 476482,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "exams/2025春毛概期末试卷（回忆版）.pdf": {
+    "size": 234518,
+    "time": 1751079499,
+    "hash": "123dbe51aa2b7f880b20d9f606da2082bbc51ed4"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737450558,
+    "hash": "cc21a536bdb37e94421a4db1fb80fb225e7a5d7e"
+  },
+  "materials/2023版毛概题库（网络资源）/大学毛概期末考试试题题库.pdf": {
+    "size": 274831,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/2023版毛概题库（网络资源）/毛概题库及答案1.pdf": {
+    "size": 290154,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/2023版毛概题库（网络资源）/毛概题库及答案2.pdf": {
+    "size": 193796,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/2023版毛概题库（网络资源）/毛概题库及答案3.pdf": {
+    "size": 186580,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/2023版毛概题库（网络资源）/毛概题库及答案4.pdf": {
+    "size": 279500,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/2023版毛概题库（网络资源）/毛概题库及答案5.pdf": {
+    "size": 373280,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "materials/毛概2023版课后思考题.pdf": {
+    "size": 4377542,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737450558,
+    "hash": "cc21a536bdb37e94421a4db1fb80fb225e7a5d7e"
+  },
+  "notes/2021_ailanxier/毛概总结.md": {
+    "size": 51449,
+    "time": 1737176592,
+    "hash": "5dec77f1eb0da3a8deb1bd0e9c18cd1a7a95dc74"
+  },
+  "notes/2023_mitcher/23春_毛泽东思想与中国特色社会主义理论_串讲整理与试题回忆.pdf": {
+    "size": 501687,
+    "time": 1737176592,
+    "hash": "5dec77f1eb0da3a8deb1bd0e9c18cd1a7a95dc74"
+  },
+  "notes/2023串讲要点整理-LeeHITSZ.pdf": {
+    "size": 4294799,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "notes/2023串讲题目整理-WJD.pdf": {
+    "size": 8896723,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "notes/2024毛概串讲整理-MaxwellJay.pdf": {
+    "size": 406599,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "notes/2024毛概串讲整理-psp.pdf": {
+    "size": 1578670,
+    "time": 1720874274,
+    "hash": "57033b13cb9434a2b8478ddfaeb3bb87a5ba81bd"
+  },
+  "notes/2024毛概串讲整理-zala.pdf": {
+    "size": 571675,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737450558,
+    "hash": "cc21a536bdb37e94421a4db1fb80fb225e7a5d7e"
+  },
+  "slides/2024毛概期末复习思维导图.pdf": {
+    "size": 5494866,
+    "time": 1720245100,
+    "hash": "7db04cd1a39f84c272338e0f7d234eb52960f6eb"
+  },
+  "tag.txt": {
+    "size": 122,
+    "time": 1720752879,
+    "hash": "d2d442663dfb6ba59f048ac5f4bec3c214cef0fc"
+  }
+}
