@@ -1,7 +1,6 @@
 course_name = "毛泽东思想和中国特色社会主义理论体系概论"
-repo_type = "normal"
 course_code = "GEIP1018"
-
+repo_type = "normal"
 description = """
 老师称 2024 年是 “课程改革的元年”，未来教学方案可能还会有调整。
 2023 年版教材将习概的内容分离了出来，因此与 2021 年版内容区别较大。
