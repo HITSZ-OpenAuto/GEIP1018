@@ -1,11 +1,5 @@
 # GEIP1018 - 毛泽东思想和中国特色社会主义理论体系概论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![课程论文10%](https://img.shields.io/badge/课程论文-10%25-wheat)
-![小组汇报20%](https://img.shields.io/badge/小组汇报-20%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 老师称 2024 年是 “课程改革的元年”，未来教学方案可能还会有调整。
 2023 年版教材将习概的内容分离了出来，因此与 2021 年版内容区别较大。
